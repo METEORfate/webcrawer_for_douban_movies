@@ -1,1 +1,6 @@
-#爬取豆瓣top250电影的python爬虫
+# 爬取豆瓣top250电影的python爬虫
+通过requests库获取网页html
+
+以lxml解析html获取电影信息
+
+最后通过csv库将爬取的数据以csv格式存储
